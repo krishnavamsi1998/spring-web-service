@@ -1,0 +1,7 @@
+XSD (XML schema definition) defines the element in an XML document. It can be used to verify if the elements in the xml document adheres to the description in which the content is to be placed. While wsdl is specific type of XML document which describes the web service. WSDL itself adheres to a XSD.
+
+XSD is to validate the document, and contains metadata about the XML whereas WSDL is to describe the webservice location and operations.
+
+XSD defines a schema which is a definition of how an XML document can be structured. You can use it to check that a given XML document is valid and follows the rules you've laid out in the schema.
+
+WSDL is a XML document that describes a web service. It shows which operations are available and how data should be structured to send to those operations.
